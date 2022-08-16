@@ -1,0 +1,16 @@
+{
+  "name": "bookstorewrapper",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "HW JS Create API wrappers for Bookstore API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Ulasau",
+  "license": "MIT",
+  "dependencies": {
+    "apisauce": "^2.1.5",
+    "base-64": "^1.0.0"
+  }
+}
